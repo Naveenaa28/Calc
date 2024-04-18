@@ -53,7 +53,7 @@ Publish the website in the given URL.
             }
         }
     </script>
-    <div class="bg-dark mx-auto text-center text-white" style="width:24rem;">Naveenaa VR(21222120038)</div>
+    <div class="bg-dark mx-auto text-center text-white" style="width:24rem;">Naveenaa VR(21222120035)</div>
     <div class="bg-dark row mx-auto text-center text-white="style="width:24rem;">
         <div class="col-12 my-4"><input type="text" name="" id="output"
         style="width: 100%; height: 50px;border-radius: 25px;"></div>
@@ -83,8 +83,9 @@ Publish the website in the given URL.
 </html>
 ```
 ## OUTPUT:
-![Screenshot 2024-04-18 214935](https://github.com/Naveenaa28/Calc/assets/131433133/3d7235b6-bfe7-4e00-89a6-ad0ee6129bdd)
-![Screenshot 2024-04-18 214947](https://github.com/Naveenaa28/Calc/assets/131433133/70cf0037-9fda-4ef6-b948-fef174a5309b)
+![Screenshot 2024-04-18 215246](https://github.com/Naveenaa28/Calc/assets/131433133/82ee8d9b-0ea8-407d-aef6-4eee42e36807)
+![Screenshot 2024-04-18 215300](https://github.com/Naveenaa28/Calc/assets/131433133/4b6b8eb9-5cee-400b-9498-d03ed45af295)
+
 
 ## RESULT:
 The program for designing a standard calculator using HTML and CSS is executed successfully.
